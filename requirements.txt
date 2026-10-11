@@ -1,0 +1,7 @@
+streamlit
+ollama
+python-dotenv
+pyautogui
+streamlit-mic-recorder
+faster-whisper
+pyttsx3
